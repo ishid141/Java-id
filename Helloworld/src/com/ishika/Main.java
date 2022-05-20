@@ -29,5 +29,8 @@ public class Main {
 
         System.out.println(message);
 
+        //Escape sequences
+        String escape = "c:\tWindows\\...";
+
     }
 }
